@@ -6,4 +6,4 @@ http://en.wikipedia.org/wiki/Oblique_Strategies
 
 I created ObliqueStrategies using Eclipse, so it should work properly if you clone it into an existing Eclipse workspace. Export a .jar with the resources to Documents/Processing/tools/ObliqueTool/tool/ObliqueTool.jar when you want to use it.
 
-To use the precompiled tool, grab the archive from the <a href="http://github.com/sansumbrella/Processing-ObliqueStrategies/downloads">downloads page</a>. Place it inside a folder named tools/ in your sketchbook folder, then unzip it. You should see Oblique Strategies in your tools menu the next time you launch Processing.
+To use the precompiled tool, grab the archive from the downloads page ( http://github.com/sansumbrella/Processing-ObliqueStrategies/downloads ). Place it inside a folder named tools/ in your sketchbook folder, then unzip it. You should see Oblique Strategies in your tools menu the next time you launch Processing.
